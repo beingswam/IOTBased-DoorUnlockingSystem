@@ -5,7 +5,7 @@ This project proposes a remote access door unlocking system for homes and office
 
 Hardware Requirement
 ===================
-* Raspberrypi
+* RaspberryPi
 * Solenoid Lock
 * Relay 5V
 * Push Button
