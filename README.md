@@ -7,10 +7,10 @@ Hardware Requirement
 ===================
 * Raspberrypi
 * Solenoid Lock
-* Relay 5v
+* Relay 5V
 * Push Button
 * PiCamera
-* Power Adapter (5V/2A & 12v/1A)
+* Power Adapter (5V/2A & 12V/1A)
 
 Software Requirement
 ===================
